@@ -9,19 +9,24 @@ Update this file whenever pages are created, merged, renamed, or materially revi
 
 ## Sources
 
-- _No source pages yet._
+- [[sources/attention-psychology]] - Overview of attention in psychology, types, and neural basis.
 
 ## Entities
 
-- _No entity pages yet._
+- [[entities/daniel-kahneman]] - Psychologist known for attention and decision-making research.
+- [[entities/michael-posner]] - Psychologist known for attention orienting and cueing paradigms.
 
 ## Concepts
 
-- _No concept pages yet._
+- [[concepts/sustained-attention]] - Maintaining focus on a task over time.
+- [[concepts/selective-attention]] - Focusing on relevant input while ignoring distractions.
+- [[concepts/divided-attention]] - Handling multiple tasks or streams at once.
+- [[concepts/prefrontal-cortex]] - Brain region linked with executive attention.
 
 ## Analyses
 
-- _No analysis pages yet._
+- [[analyses/project-kickstart-attention-focus]] - Kickoff plan for studying how focus works in the human mind.
+- [[analyses/attention-mechanisms]] - Summary of attention mechanisms.
 
 ## Open Questions
 
