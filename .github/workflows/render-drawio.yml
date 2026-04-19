@@ -11,16 +11,16 @@ jobs:
 
     steps:
     - name: Checkout code
-      uses: actions/checkout@v2
+      uses: actions/checkout@v6.0.2
 
     - name: Render Draw.io diagrams
-      uses: neozenith/drawio-render-action@v1
+      uses: neozenith/drawio-render-action@v1.0.2
       with:
         input_path: 'docs/diagrams'
         output_path: 'docs/pngs'
 
     - name: Upload Artifacts
-      uses: actions/upload-artifact@v2
+      uses: actions/upload-artifact@v7.0.1
       with:
         name: drawio-pngs
         path: docs/pngs
